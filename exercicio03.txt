@@ -1,0 +1,1 @@
+Exercício 03. Acesse o repositório https://github.com/prog-geo/ipynb e marque com uma estrela esse repositório para poder monitorá-lo. Neste repositório, os professores irão disponibilizar diversos Jupyter Notebooks de suporte ao curso.
